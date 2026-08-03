@@ -1,21 +1,18 @@
-# 🚀 Shan Portfolio
+# 🚀 Prashant Maurya — Portfolio
 
 <div align="center">
 
-### Modern • Fast • Responsive • Creative
+### Java Full Stack Developer • Spring Boot • React.js • MySQL
 
-A premium personal portfolio built with modern frontend technologies, smooth animations, and a clean UI to showcase projects, skills, and experience.
+A personal portfolio built to showcase backend-focused engineering work — REST APIs, secure Spring Boot systems, open-source contributions, and full-stack projects.
 
 <p>
-  <a href="https://shan-portfolioo.netlify.app">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-00C853?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/shajith23/shan-portfolio">
+  <a href="https://github.com/prashantpiyush1111/prashant-maurya">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
   </a>
-  <img src="https://img.shields.io/github/stars/shajith23/shan-portfolio?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/shajith23/shan-portfolio?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/shajith23/shan-portfolio?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/prashantpiyush1111/prashant-maurya?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/prashantpiyush1111/prashant-maurya?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/prashantpiyush1111/prashant-maurya?style=for-the-badge" />
 </p>
 
 </div>
@@ -24,15 +21,15 @@ A premium personal portfolio built with modern frontend technologies, smooth ani
 
 ## ✨ Preview
 
-> A modern portfolio crafted to leave a strong first impression with smooth animations, responsive layouts, elegant typography, and a premium user experience.
+> A backend-first developer's portfolio — clean Spring Boot APIs, secure authentication systems, and responsive React frontends, presented with smooth scroll animations and a modern UI.
 
 ### 🔗 Live Website
 
-**https://shan-portfolioo.netlify.app**
+**[Add your deployed link here once live — Netlify / Vercel / GitHub Pages]**
 
 ### 💻 GitHub Repository
 
-**https://github.com/shajith23/shan-portfolio**
+**https://github.com/prashantpiyush1111/prashant-maurya**
 
 ---
 
@@ -57,17 +54,16 @@ A premium personal portfolio built with modern frontend technologies, smooth ani
 
 # 🚀 Overview
 
-Shan Portfolio is a modern personal portfolio website built to showcase projects, skills, achievements, and services.
+This is my personal developer portfolio, built to showcase my projects, skills, work experience, and open-source contributions as a **Java Full Stack Developer**.
 
-The website focuses on:
+The site focuses on:
 
-- Premium UI/UX
-- Fast performance
-- Responsive layouts
-- Smooth animations
-- Interactive components
+- Clean, professional presentation of real engineering work
+- Fast performance and lightweight assets
+- Fully responsive layouts
+- Smooth scroll-based animations
 - SEO-friendly structure
-- Clean and maintainable code
+- Maintainable, well-organized code
 
 ---
 
@@ -75,37 +71,34 @@ The website focuses on:
 
 ## 🎯 Modern UI
 
-- Premium design
-- Dark aesthetic
-- Mobile-first layout
-- Responsive navigation
-- Interactive sections
+- Clean, developer-focused design
+- Dark & light section contrast
+- Mobile-first responsive layout
+- Interactive navigation and sections
 
 ---
 
 ## ⚡ Performance
 
-- Lightweight
-- Optimized assets
-- Fast loading
-- Smooth scrolling
-- Lazy loading ready
+- Lightweight static site (no backend dependency)
+- Optimized image assets
+- Fast load times
+- Smooth scrolling experience
 
 ---
 
 ## 🎨 Animations
 
-- GSAP animations
-- Scroll animations
-- Hover effects
-- Counter animations
-- Smooth transitions
+- GSAP-powered scroll animations
+- AOS (Animate On Scroll) effects
+- Hover interactions on cards and buttons
+- Animated counters (DSA problems, APIs built, projects shipped)
 
 ---
 
 ## 📱 Fully Responsive
 
-Works perfectly on:
+Works across:
 
 - Desktop
 - Laptop
@@ -116,15 +109,14 @@ Works perfectly on:
 
 ## 📂 Sections
 
-- Hero
-- About
-- Skills
-- Experience
-- Services
-- Portfolio
-- Testimonials
-- Contact
-- Footer
+- Hero (intro + tech stack tags + stats)
+- About (background, education, focus areas)
+- Skills (Backend, Database, Frontend, Tools & DSA)
+- Projects (Nestify, Student Management System, E-Learning Platform, Portfolio)
+- Certifications (JPMorgan, AI Fundamentals, SQL, Web Dev, React/JS, Communication)
+- Work Experience & Open Source highlights (AMDOX internship, vault-web contribution)
+- Tech Stack marquee
+- Contact / Footer
 
 ---
 
@@ -137,29 +129,30 @@ Works perfectly on:
 | Bootstrap 5 | Responsive Grid |
 | JavaScript | Interactivity |
 | jQuery | Plugins |
-| GSAP | Animations |
+| GSAP | Scroll & entrance animations |
 | Swiper.js | Sliders |
-| AOS | Scroll Animations |
-| Magnific Popup | Image & Video Popups |
-| PureCounter | Animated Counters |
+| AOS | Scroll animations |
+| Magnific Popup | Image & video popups |
+| PureCounter | Animated counters |
+
+**Skills showcased in this portfolio:** Java, Spring Boot, Hibernate/JPA, Spring Security, JWT, Microservices, MySQL, React.js, Git, GitHub Actions, Postman, Data Structures & Algorithms.
 
 ---
 
 # 📁 Folder Structure
 
 ```text
-shan-portfolio/
+prashant-maurya/
 │
 ├── index.html
 ├── README.md
 │
-├── assets/
-│
-├── css/
-├── js/
-├── images/
-├── fonts/
-└── icons/
+└── assets/
+    ├── css/
+    ├── js/
+    ├── images/
+    ├── fonts/
+    └── icons/
 ```
 
 ---
@@ -169,13 +162,13 @@ shan-portfolio/
 Clone the repository
 
 ```bash
-git clone https://github.com/shajith23/shan-portfolio.git
+git clone https://github.com/prashantpiyush1111/prashant-maurya.git
 ```
 
 Open project
 
 ```bash
-cd shan-portfolio
+cd prashant-maurya
 ```
 
 ---
@@ -190,19 +183,15 @@ Open
 index.html
 ```
 
+directly in your browser.
+
 ---
 
-### Method 2
+### Method 2 — VS Code
 
-Using VS Code
+Install the **Live Server** extension, then:
 
-Install
-
-```
-Live Server
-```
-
-Right Click
+Right click `index.html` →
 
 ```
 Open with Live Server
@@ -210,9 +199,7 @@ Open with Live Server
 
 ---
 
-### Method 3
-
-Python
+### Method 3 — Python
 
 ```bash
 python3 -m http.server 8000
@@ -232,93 +219,54 @@ http://localhost:8000
 
 ```bash
 git init
-
 git add .
-
 git commit -m "Initial Commit"
-
 git branch -M main
-
-git remote add origin https://github.com/shajith23/shan-portfolio.git
-
+git remote add origin https://github.com/prashantpiyush1111/prashant-maurya.git
 git push -u origin main
 ```
 
-Enable
+Then enable:
 
 ```
-Settings
-
-↓
-
-Pages
-
-↓
-
-Deploy from main branch
+Settings → Pages → Deploy from main branch
 ```
 
 ---
 
 ## Netlify
 
-Drag & Drop
-
-OR
-
-Connect GitHub Repository
+Drag & drop the project folder, **or** connect this GitHub repository directly.
 
 ---
 
 ## Vercel
 
-Import GitHub Repository
-
-Deploy
-
-Done ✅
+Import this GitHub repository and deploy.
 
 ---
 
 # 🎨 Customization
 
-Update
+Everything can be edited inside `index.html` and `assets/`:
 
-- Name
+- Name & tagline
 - Logo
-- Images
-- Portfolio Projects
-- Contact Information
-- Resume
-- Social Links
-- Theme Colors
-
-Everything can be customized inside
-
-```
-index.html
-```
-
-and
-
-```
-assets/
-```
+- Profile photo
+- Project cards
+- Contact information
+- Resume link
+- Social links (GitHub, LinkedIn)
+- Theme colors (via CSS variables in `assets/css/main.css`)
 
 ---
 
 # 📈 Performance Goals
 
 ✅ Responsive
-
 ✅ SEO Friendly
-
-✅ Accessible
-
 ✅ Optimized Assets
-
 ✅ Smooth Animation
-
 ✅ Cross Browser Compatible
 
 ---
@@ -336,68 +284,71 @@ assets/
 
 # 🚀 Future Improvements
 
-- Blog Integration
-- CMS Support
-- Dark / Light Toggle
-- Multi-language
-- Analytics Dashboard
-- Contact API
-- Admin Panel
+- Working contact form (EmailJS / Formspree integration)
+- Blog / articles section
+- Dark / light theme toggle
+- Project detail pages
+- Analytics dashboard
 
 ---
 
 # 🤝 Contributing
 
-Contributions are welcome.
+This is a personal portfolio repo, but suggestions are welcome.
 
-1. Fork Repository
-
-2. Create Feature Branch
+1. Fork the repository
+2. Create a feature branch
 
 ```bash
 git checkout -b feature-name
 ```
 
-3. Commit
+3. Commit your changes
 
 ```bash
-git commit -m "Added Feature"
+git commit -m "Added feature"
 ```
 
-4. Push
+4. Push the branch
 
 ```bash
 git push origin feature-name
 ```
 
-5. Open Pull Request
+5. Open a Pull Request
 
 ---
 
 # 📄 License
 
-This project is available for personal and commercial portfolio use.
+This project is available for personal reference. Please don't reuse the design/content as your own portfolio without permission.
 
 ---
 
 # 👨‍💻 Developer
 
-**Shajith (Shan)**
+**Prashant Maurya**
 
-### Portfolio
+Java Full Stack Developer · B.Tech CSE, IEC College of Engineering & Technology, Greater Noida
 
-https://shan-portfolioo.netlify.app
+### Email
+
+prashantpiyush1111@gmail.com
 
 ### GitHub
 
-https://github.com/shajith23
+https://github.com/prashantpiyush1111
+
+### LinkedIn
+
+https://linkedin.com/in/prashantpiyush1111
 
 ---
 
 <div align="center">
 
-### ⭐ If you like this project, don't forget to Star the Repository!
+### ⭐ If you find this useful, consider starring the repository!
 
-Made with ❤️ by **Shajith**
+Made with ❤️ by **Prashant Maurya**
 
 </div>
