@@ -8203,19 +8203,6 @@ body.tw-magic-cursor #magic-cursor {
   }
 }
 
-@media (max-width: 767px) {
-    .banner-three-man{
-        width: 280px;
-        inset-block-end: 32%;
-    }
-}
-
-@media (max-width: 575px) {
-    .banner-three-man{
-        width: 240px;
-        inset-block-end: 30%;
-    }
-}
 .banner-three-title {
   font-size: 397px;
   line-height: 100%;
@@ -8357,22 +8344,6 @@ body.tw-magic-cursor #magic-cursor {
   margin: auto;
   margin-block-end: 20px;
 }
-@media screen and (max-width: 767px) {
-  .banner-three-center-title {
-    max-width: 620px;
-    font-size: 3rem;
-  }
-}
-@media screen and (max-width: 575px) {
-  .banner-three-center-title {
-    font-size: 2rem;
-  }
-}
-@media screen and (max-width: 424px) {
-  .banner-three-center-title {
-    font-size: 1.9rem;
-  }
-}
 .banner-three-line-shape {
   inset-block-end: 13%;
 }
@@ -8457,59 +8428,42 @@ body.tw-magic-cursor #magic-cursor {
     display: block;
 }
 
+/* ===== Mobile Hero Fix ===== */
+
 @media (max-width: 768px) {
 
     .banner-three-man {
-        width: 320px;
-        inset-block-end: 48%;
+        width: 300px;
+        inset-block-end: 36%;
     }
 
     .banner-three-center-title {
         font-size: 34px !important;
         line-height: 1.2;
+        margin-top: 120px;
+    }
+
+    .banner-three-title {
+        font-size: 90px !important;
     }
 }
 
 @media (max-width: 575px) {
 
     .banner-three-man {
-        width: 260px;
-        inset-block-end: 52%;
+        width: 240px;
+        inset-block-end: 38%;
     }
 
     .banner-three-center-title {
         font-size: 28px !important;
         line-height: 1.2;
+        margin-top: 100px;
     }
-}
-.about-area {
-  background: #f4f2ee;
-}
-@media screen and (max-width: 1199px) {
-  .about-area .section-wrapper-one {
-    padding-block-end: var(--size-10);
-  }
-}
-@media screen and (max-width: 1199px) {
-  .about-area > .container > .row {
-    flex-direction: column-reverse;
-  }
-}
-.about-thumb-one {
-  max-width: 500px;
-  width: 100%;
-}
-@media screen and (max-width: 1199px) {
-  .about-thumb-one {
-    margin-block-end: 30px;
-    max-width: 100%;
-  }
-}
-@media screen and (max-width: 1199px) {
-  .about-thumb-one img {
-    max-width: 100%;
-    width: 100%;
-  }
+
+    .banner-three-title {
+        font-size: 70px !important;
+    }
 }
 .about-thumb-two {
   max-width: 500px;
@@ -8555,46 +8509,6 @@ body.tw-magic-cursor #magic-cursor {
   .about-three-shape {
     inset-block-start: -38px;
   }
-}
-/* ===== Mobile Hero Fix ===== */
-
-@media (max-width: 767px) {
-
-    .banner-three-man {
-        width: 260px !important;
-        left: 50%;
-        transform: translateX(-50%);
-        inset-block-end: 48% !important;
-    }
-
-    .banner-three-center-title {
-        font-size: 1.8rem !important;
-        line-height: 1.2;
-        margin-top: 220px;
-    }
-
-    .banner-three-title {
-        font-size: 3rem !important;
-    }
-
-}
-
-@media (max-width: 575px) {
-
-    .banner-three-man {
-        width: 220px !important;
-        inset-block-end: 50% !important;
-    }
-
-    .banner-three-center-title {
-        font-size: 1.5rem !important;
-        margin-top: 180px;
-    }
-
-    .banner-three-title {
-        font-size: 2.5rem !important;
-    }
-
 }
 @media screen and (max-width: 424px) {
   .about-three-shape {
