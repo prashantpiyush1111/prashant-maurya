@@ -8190,19 +8190,28 @@ body.tw-magic-cursor #magic-cursor {
   background: #f5f5f5;
   padding-block: 240px 100px;
 }
+
 @media screen and (max-width: 1199px) {
   .banner-three-area {
     padding-block: 300px 100px;
   }
 }
+
 @media screen and (max-width: 991px) {
   .banner-three-area {
-    padding-block: 200px 100px;
+    padding-block: 220px 100px;
   }
 }
+
 @media screen and (max-width: 767px) {
   .banner-three-area {
-    padding-block: 120px 70px;
+    padding-block: 320px 80px;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .banner-three-area {
+    padding-block: 360px 70px;
   }
 }
 .banner-three-title {
