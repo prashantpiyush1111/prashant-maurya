@@ -8203,16 +8203,18 @@ body.tw-magic-cursor #magic-cursor {
   }
 }
 
-@media screen and (max-width: 767px) {
-  .banner-three-area {
-    padding-block: 320px 80px;
-  }
+@media (max-width: 767px) {
+    .banner-three-man{
+        width: 280px;
+        inset-block-end: 32%;
+    }
 }
 
-@media screen and (max-width: 575px) {
-  .banner-three-area {
-    padding-block: 360px 70px;
-  }
+@media (max-width: 575px) {
+    .banner-three-man{
+        width: 240px;
+        inset-block-end: 30%;
+    }
 }
 .banner-three-title {
   font-size: 397px;
