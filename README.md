@@ -1,152 +1,82 @@
-# 🚀 Prashant Maurya — Portfolio
+# 👨‍💻 Prashant Maurya — Developer Portfolio
 
 <div align="center">
 
-### Java Full Stack Developer • Spring Boot • React.js • MySQL
+### Java Full Stack Developer · Spring Boot · React · MySQL
 
-A personal portfolio built to showcase backend-focused engineering work — REST APIs, secure Spring Boot systems, open-source contributions, and full-stack projects.
+A personal developer portfolio showcasing backend-focused engineering, full-stack projects, skills, experience, and selected open-source work.
 
-<p>
-  <a href="https://github.com/prashantpiyush1111/prashant-maurya">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/github/stars/prashantpiyush1111/prashant-maurya?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/prashantpiyush1111/prashant-maurya?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/prashantpiyush1111/prashant-maurya?style=for-the-badge" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/prashantpiyush1111)
 
 </div>
 
 ---
 
-## ✨ Preview
+## 🌐 Portfolio
 
-> A backend-first developer's portfolio — clean Spring Boot APIs, secure authentication systems, and responsive React frontends, presented with smooth scroll animations and a modern UI.
+This repository contains the source code for my personal portfolio website.
 
-### 🔗 Live Website
+The portfolio is designed to present:
 
-**[Add your deployed link here once live — Netlify / Vercel / GitHub Pages]**
+- Backend and full-stack projects
+- Java and Spring Boot experience
+- Database and API skills
+- Open-source contributions
+- Certifications and professional experience
+- Contact and professional profile links
 
-### 💻 GitHub Repository
+> Add the deployed website URL here when a final production URL is available.
 
-**https://github.com/prashantpiyush1111/prashant-maurya**
+## ✨ What the Portfolio Includes
 
----
+### 🧑‍💻 Developer Profile
 
-# 📖 Table of Contents
+A concise introduction covering my development focus, education, technical interests, and current direction.
 
-- Overview
-- Features
-- Tech Stack
-- Folder Structure
-- Installation
-- Run Locally
-- Deployment
-- Customization
-- Performance
-- Browser Support
-- Future Improvements
-- Contributing
-- License
-- Contact
+### 🛠️ Skills
 
----
+The portfolio highlights technologies and tools across:
 
-# 🚀 Overview
+- **Backend:** Java, Spring Boot, Spring Security, Hibernate/JPA
+- **Database:** MySQL
+- **Frontend:** React.js, HTML, CSS, JavaScript
+- **Engineering:** REST APIs, JWT, Git, GitHub Actions
+- **Problem Solving:** Data Structures and Algorithms
 
-This is my personal developer portfolio, built to showcase my projects, skills, work experience, and open-source contributions as a **Java Full Stack Developer**.
+### 🚀 Projects
 
-The site focuses on:
+Selected projects presented in the portfolio include software systems such as:
 
-- Clean, professional presentation of real engineering work
-- Fast performance and lightweight assets
-- Fully responsive layouts
-- Smooth scroll-based animations
-- SEO-friendly structure
-- Maintainable, well-organized code
+- Nestify PG Management System
+- Student Management System
+- E-Learning Platform
+- Personal Portfolio
 
----
+### 🏆 Experience & Open Source
 
-# ✨ Features
+The site also presents professional experience and selected open-source contribution highlights.
 
-## 🎯 Modern UI
+## 🛠️ Tech Stack
 
-- Clean, developer-focused design
-- Dark & light section contrast
-- Mobile-first responsive layout
-- Interactive navigation and sections
-
----
-
-## ⚡ Performance
-
-- Lightweight static site (no backend dependency)
-- Optimized image assets
-- Fast load times
-- Smooth scrolling experience
-
----
-
-## 🎨 Animations
-
-- GSAP-powered scroll animations
-- AOS (Animate On Scroll) effects
-- Hover interactions on cards and buttons
-- Animated counters (DSA problems, APIs built, projects shipped)
-
----
-
-## 📱 Fully Responsive
-
-Works across:
-
-- Desktop
-- Laptop
-- Tablet
-- Mobile
-
----
-
-## 📂 Sections
-
-- Hero (intro + tech stack tags + stats)
-- About (background, education, focus areas)
-- Skills (Backend, Database, Frontend, Tools & DSA)
-- Projects (Nestify, Student Management System, E-Learning Platform, Portfolio)
-- Certifications (JPMorgan, AI Fundamentals, SQL, Web Dev, React/JS, Communication)
-- Work Experience & Open Source highlights (AMDOX internship, vault-web contribution)
-- Tech Stack marquee
-- Contact / Footer
-
----
-
-# 🛠 Tech Stack
-
-| Technology | Purpose |
-|------------|----------|
-| HTML5 | Structure |
-| CSS3 | Styling |
-| Bootstrap 5 | Responsive Grid |
-| JavaScript | Interactivity |
-| jQuery | Plugins |
-| GSAP | Scroll & entrance animations |
-| Swiper.js | Sliders |
-| AOS | Scroll animations |
-| Magnific Popup | Image & video popups |
+| Technology | Role |
+|---|---|
+| HTML5 | Page structure |
+| CSS3 | Styling and responsive layout |
+| Bootstrap 5 | Responsive UI components |
+| JavaScript | Client-side functionality |
+| jQuery | UI/plugin integrations |
+| GSAP | Scroll and entrance animations |
+| AOS | Scroll-based effects |
+| Swiper.js | Sliders and interactive sections |
+| Magnific Popup | Media/lightbox interactions |
 | PureCounter | Animated counters |
 
-**Skills showcased in this portfolio:** Java, Spring Boot, Hibernate/JPA, Spring Security, JWT, Microservices, MySQL, React.js, Git, GitHub Actions, Postman, Data Structures & Algorithms.
-
----
-
-# 📁 Folder Structure
+## 📁 Project Structure
 
 ```text
 prashant-maurya/
-│
 ├── index.html
 ├── README.md
-│
 └── assets/
     ├── css/
     ├── js/
@@ -155,200 +85,84 @@ prashant-maurya/
     └── icons/
 ```
 
----
+## 🚀 Run Locally
 
-# 🚀 Installation
-
-Clone the repository
+### Clone
 
 ```bash
 git clone https://github.com/prashantpiyush1111/prashant-maurya.git
-```
-
-Open project
-
-```bash
 cd prashant-maurya
 ```
 
----
+### Open Directly
 
-# ▶ Run Locally
+Open `index.html` in a modern web browser.
 
-### Method 1
+### Or Use a Local Server
 
-Open
-
-```
-index.html
-```
-
-directly in your browser.
-
----
-
-### Method 2 — VS Code
-
-Install the **Live Server** extension, then:
-
-Right click `index.html` →
-
-```
-Open with Live Server
-```
-
----
-
-### Method 3 — Python
+With Python:
 
 ```bash
 python3 -m http.server 8000
 ```
 
-Visit
+Then open:
 
-```
+```text
 http://localhost:8000
 ```
 
----
+## 🌍 Deployment
 
-# 🌐 Deployment
+The portfolio is a static website and can be deployed to common static-hosting platforms such as:
 
-## GitHub Pages
+- GitHub Pages
+- Netlify
+- Vercel
 
-```bash
-git init
-git add .
-git commit -m "Initial Commit"
-git branch -M main
-git remote add origin https://github.com/prashantpiyush1111/prashant-maurya.git
-git push -u origin main
-```
+Use the deployment configuration appropriate to the platform you choose.
 
-Then enable:
+## 🎨 Customization
 
-```
-Settings → Pages → Deploy from main branch
-```
+Content and presentation can be updated through `index.html` and the `assets/` directory.
 
----
+Typical updates include:
 
-## Netlify
-
-Drag & drop the project folder, **or** connect this GitHub repository directly.
-
----
-
-## Vercel
-
-Import this GitHub repository and deploy.
-
----
-
-# 🎨 Customization
-
-Everything can be edited inside `index.html` and `assets/`:
-
-- Name & tagline
-- Logo
-- Profile photo
-- Project cards
-- Contact information
+- Profile information
+- Project cards and descriptions
 - Resume link
-- Social links (GitHub, LinkedIn)
-- Theme colors (via CSS variables in `assets/css/main.css`)
+- Contact details
+- Social links
+- Images and icons
+- Styling and animation settings
 
----
+## 📈 Design Goals
 
-# 📈 Performance Goals
+- Responsive across desktop, tablet, and mobile
+- Clean professional presentation
+- Fast static delivery
+- Clear project-focused storytelling
+- Maintainable asset organization
 
-✅ Responsive
-✅ SEO Friendly
-✅ Optimized Assets
-✅ Smooth Animation
-✅ Cross Browser Compatible
+## 🔮 Future Improvements
 
----
+Potential additions include a working contact form, project detail pages, a technical blog section, and richer theme controls.
 
-# 🌍 Browser Support
+## 👨‍💻 About Me
 
-- Chrome
-- Edge
-- Firefox
-- Safari
-- Brave
-- Opera
+**Prashant Maurya**  
+Java Full Stack Developer · B.Tech CSE
 
----
+GitHub: [@prashantpiyush1111](https://github.com/prashantpiyush1111)
 
-# 🚀 Future Improvements
+LinkedIn: [Prashant Maurya](https://linkedin.com/in/prashantpiyush1111)
 
-- Working contact form (EmailJS / Formspree integration)
-- Blog / articles section
-- Dark / light theme toggle
-- Project detail pages
-- Analytics dashboard
+## 📄 License
 
----
-
-# 🤝 Contributing
-
-This is a personal portfolio repo, but suggestions are welcome.
-
-1. Fork the repository
-2. Create a feature branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Added feature"
-```
-
-4. Push the branch
-
-```bash
-git push origin feature-name
-```
-
-5. Open a Pull Request
-
----
-
-# 📄 License
-
-This project is available for personal reference. Please don't reuse the design/content as your own portfolio without permission.
-
----
-
-# 👨‍💻 Developer
-
-**Prashant Maurya**
-
-Java Full Stack Developer · B.Tech CSE, IEC College of Engineering & Technology, Greater Noida
-
-### Email
-
-prashantpiyush1111@gmail.com
-
-### GitHub
-
-https://github.com/prashantpiyush1111
-
-### LinkedIn
-
-https://linkedin.com/in/prashantpiyush1111
-
----
+See the repository license for current usage terms.
 
 <div align="center">
 
-### ⭐ If you find this useful, consider starring the repository!
-
-Made with ❤️ by **Prashant Maurya**
+⭐ Built to showcase software projects, engineering skills, and continuous learning.
 
 </div>
